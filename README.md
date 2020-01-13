@@ -1,5 +1,5 @@
 # pycliSOF
-This is a terminal based app which is used to search answers for question, search similar questions to a particular question on
+This is a pip package which is used to search answers for question, search similar questions to a particular question on
 StackOverflow without leaving the terminal.
 
 # Installation
