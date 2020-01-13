@@ -2,3 +2,4 @@
 README.txt
 setup.py
 pystack/__init__.py
+pystack/stackbash.py

@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='pycliSOF',
-    version='0.1.4',
+    version='0.1.6',
     author='Harshit Babbar',
     author_email='harshitbabbar968@gmail.com',
     packages=['pystack'],
