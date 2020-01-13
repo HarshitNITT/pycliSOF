@@ -13,7 +13,8 @@ pip install pycliSOF==0.1.6
 <img src="https://github.com/HarshitNITT/pycliSOF/blob/master/demo_images/pycliSOF2.png" />
 <img src="https://github.com/HarshitNITT/pycliSOF/blob/master/demo_images/pycliSOF3.png" />
 <img src="https://github.com/HarshitNITT/pycliSOF/blob/master/demo_images/pycliSOF4.png" />
+
 # Languages
-Python
+ Python
 # License
 This project is licensed under the MIT License.
